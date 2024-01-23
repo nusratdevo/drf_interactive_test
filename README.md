@@ -34,8 +34,4 @@ docker-compose up
 **Progress:**
 Version 1 completed and hosted
 
-## SCREENSHOTS:**
-<h2>Home Page</h2>
-<img src="https://github.com/nusratdevo/arena_book_store/blob/main/screen/screen01.png" height="400">
----
  
